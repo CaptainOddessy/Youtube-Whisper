@@ -1,3 +1,4 @@
+You can try it on [Google Colab](https://colab.research.google.com/drive/11RQjc4aht0PA66kIlpMVR-ZOmzVgbsCi?usp=sharing)
 ---
 title: Youtube Whisperer
 emoji: ⚡
